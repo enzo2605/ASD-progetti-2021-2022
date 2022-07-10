@@ -1,0 +1,94 @@
+# depslib dependency file v1.0
+1647765932 source:c:\users\114776\desktop\università parthenope napoli\iii° anno\algoritmi e strutture dati\progetto\rbgraph\main.cpp
+	<iostream>
+	"Menu.h"
+
+1647765867 c:\users\114776\desktop\università parthenope napoli\iii° anno\algoritmi e strutture dati\progetto\rbgraph\include\menu.h
+	<iostream>
+	<string>
+	<sstream>
+	<vector>
+	<fstream>
+	"RBGraph.h"
+
+1647788737 c:\users\114776\desktop\università parthenope napoli\iii° anno\algoritmi e strutture dati\progetto\rbgraph\include\rbgraph.h
+	<vector>
+	<queue>
+	"graphNode.h"
+
+1647110297 c:\users\114776\desktop\università parthenope napoli\iii° anno\algoritmi e strutture dati\progetto\rbgraph\include\graphnode.h
+	<vector>
+	<sstream>
+	<limits>
+	"RBTree.h"
+
+1647110348 c:\users\114776\desktop\università parthenope napoli\iii° anno\algoritmi e strutture dati\progetto\rbgraph\include\rbtree.h
+	"RBNode.h"
+	<iostream>
+	<string>
+	<vector>
+
+1647110369 c:\users\114776\desktop\università parthenope napoli\iii° anno\algoritmi e strutture dati\progetto\rbgraph\include\rbnode.h
+
+1647769532 source:c:\users\114776\desktop\università parthenope napoli\iii° anno\algoritmi e strutture dati\progetto\vincenzoiannucci\rbgraph\main.cpp
+	<iostream>
+	"Menu.h"
+
+1647769467 c:\users\114776\desktop\università parthenope napoli\iii° anno\algoritmi e strutture dati\progetto\vincenzoiannucci\rbgraph\include\menu.h
+	<iostream>
+	<string>
+	<sstream>
+	<vector>
+	<fstream>
+	"RBGraph.h"
+
+1647792337 c:\users\114776\desktop\università parthenope napoli\iii° anno\algoritmi e strutture dati\progetto\vincenzoiannucci\rbgraph\include\rbgraph.h
+	<vector>
+	<queue>
+	"graphNode.h"
+
+1647113897 c:\users\114776\desktop\università parthenope napoli\iii° anno\algoritmi e strutture dati\progetto\vincenzoiannucci\rbgraph\include\graphnode.h
+	<vector>
+	<sstream>
+	<limits>
+	"RBTree.h"
+
+1647113948 c:\users\114776\desktop\università parthenope napoli\iii° anno\algoritmi e strutture dati\progetto\vincenzoiannucci\rbgraph\include\rbtree.h
+	"RBNode.h"
+	<iostream>
+	<string>
+	<vector>
+
+1647113969 c:\users\114776\desktop\università parthenope napoli\iii° anno\algoritmi e strutture dati\progetto\vincenzoiannucci\rbgraph\include\rbnode.h
+
+1647769532 source:c:\users\114776\desktop\università parthenope napoli\iii° anno\algoritmi e strutture dati\progetto\progetto_asd_vincenzo_iannucci\traccia 3_1\rbgraph\main.cpp
+	<iostream>
+	"Menu.h"
+
+1655220274 c:\users\114776\desktop\università parthenope napoli\iii° anno\algoritmi e strutture dati\progetto\progetto_asd_vincenzo_iannucci\traccia 3_1\rbgraph\include\menu.h
+	<iostream>
+	<string>
+	<sstream>
+	<vector>
+	<fstream>
+	"RBGraph.h"
+
+1647792337 c:\users\114776\desktop\università parthenope napoli\iii° anno\algoritmi e strutture dati\progetto\progetto_asd_vincenzo_iannucci\traccia 3_1\rbgraph\include\rbgraph.h
+	<vector>
+	<queue>
+	"graphNode.h"
+
+1647113897 c:\users\114776\desktop\università parthenope napoli\iii° anno\algoritmi e strutture dati\progetto\progetto_asd_vincenzo_iannucci\traccia 3_1\rbgraph\include\graphnode.h
+	<vector>
+	<sstream>
+	<limits>
+	"RBTree.h"
+
+1647113948 c:\users\114776\desktop\università parthenope napoli\iii° anno\algoritmi e strutture dati\progetto\progetto_asd_vincenzo_iannucci\traccia 3_1\rbgraph\include\rbtree.h
+	"RBNode.h"
+	<iostream>
+	<string>
+	<vector>
+
+1647113969 c:\users\114776\desktop\università parthenope napoli\iii° anno\algoritmi e strutture dati\progetto\progetto_asd_vincenzo_iannucci\traccia 3_1\rbgraph\include\rbnode.h
+
